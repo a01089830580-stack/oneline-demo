@@ -4,7 +4,7 @@ import "./globals.css";
 
 // ⑤회차(9/19)에서 이 부분을 SEO 태그로 채웁니다
 export const metadata: Metadata = {
-  title: "오늘의 한 줄",
+  title: "오늘의 두 줄",
   description: "하루에 한 줄씩 남기는 작은 가게",
 };
 

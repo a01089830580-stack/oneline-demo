@@ -1,3 +1,3 @@
-export default function HelloPage() 
+export default function HelloPage() {
 	return <h1>안녕하세요</h1>;
 }
